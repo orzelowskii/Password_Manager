@@ -1,0 +1,21 @@
+# ninja log v6
+0	17	1734126501762424000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7d6f83b9f76e7ecb
+0	17	1734126501762424000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7d6f83b9f76e7ecb
+17	2664	1734126504410039000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	2968e6ff1f30b946
+17	2664	1734126504410039000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	2968e6ff1f30b946
+2664	2771	1734126504410661225	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	880b1853fed7269f
+2664	2771	1734126504410661225	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	880b1853fed7269f
+2771	2787	1734126504532373000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	1890955f4818733f
+2771	2787	1734126504532373000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	1890955f4818733f
+2787	2801	1734126504546274000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	bf9054c5dc42c11a
+2787	2801	1734126504546274000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	bf9054c5dc42c11a
+2801	2816	1734126504561254000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	49fc0bea10c42f2a
+2801	2816	1734126504561254000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	49fc0bea10c42f2a
+2816	2830	1734126504575672000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	a1ad810d2192daef
+2816	2830	1734126504575672000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	a1ad810d2192daef
+2830	2848	1734126504593140000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3e776e51f1d376f3
+2830	2848	1734126504593140000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3e776e51f1d376f3
+2848	2870	1734126504615640000	CMakeFiles/fmt-populate-complete	b284197bc33bee06
+2848	2870	1734126504615640000	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	b284197bc33bee06
+2848	2870	1734126504615640000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	b284197bc33bee06
+2848	2870	1734126504615640000	/Users/jakuborzelowski/CLionProjects/Projekt/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	b284197bc33bee06
